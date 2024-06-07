@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Single" time="14.529" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suite Single Case" tests="1" failures="0" errors="0" time="5.474" skipped="0" timestamp="07-06-2024T23:14:25" hostname="KietDT - host.docker.internal" id="Test Suites/Test Suites/Test Suite Single Case">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\IT\\katalon-repo-shadow\\Reports\\20240607_231417\\Test Suites\\Test Suite Single Case\\20240607_231418"/>
+         <property name="logFiles" value="D:\\IT\\katalon-repo-shadow\\Reports\\20240607_231417\\Test Suites\\Test Suite Single Case\\20240607_231418\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="KietDT - host.docker.internal"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.50.221"/>
+         <property name="sessionId" value="b86bd79722557d83a1f597566b3ae715"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/WEB/TC01" time="5.366" classname="Test Cases/WEB/TC01" status="PASSED">
+         <system-out><![CDATA[07-06-2024T23:14:25 - [TEST_CASE][PASSED] - Test Cases/WEB/TC01: Test Cases/WEB/TC01
+
+07-06-2024T23:14:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+07-06-2024T23:14:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+07-06-2024T23:14:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+07-06-2024T23:14:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+07-06-2024T23:14:27 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+07-06-2024T23:14:30 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+07-06-2024T23:14:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service")): Object 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is visible
+
+07-06-2024T23:14:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is visible
+
+07-06-2024T23:14:30 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service"), "CURA Healthcare Service"): Actual text and expected text of test object 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' are matched.
+
+07-06-2024T23:14:31 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' are matched.
+
+07-06-2024T23:14:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+07-06-2024T23:14:31 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[07-06-2024T23:14:25 - [TEST_SUITE][PASSED] - Test Suite Single Case: Test Cases/WEB/TC01]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
