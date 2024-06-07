@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite WIN,,,,07-06-2024 23:23:38,07-06-2024 23:23:39,0.969s,FAILED
+,,,,,,,
+Test Cases/WIN/WIN01,,,,07-06-2024 23:23:39,07-06-2024 23:23:39,0.042s,FAILED
+"startApplicationWithTitle(""C:\Windows\notepad.exe"", ""stdout.log - Notepad"")",,,,07-06-2024 23:23:39,07-06-2024 23:23:39,0.016s,FAILED
