@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite Single Case,,,,08-06-2024 15:55:17,08-06-2024 15:56:58,1m - 41.293s,FAILED
+,,,,,,,
+Test Cases/WEB/TC01,,,,08-06-2024 15:56:33,08-06-2024 15:56:58,25.098s,FAILED
+"openBrowser("""")",,,,08-06-2024 15:56:33,08-06-2024 15:56:58,24.953s,FAILED

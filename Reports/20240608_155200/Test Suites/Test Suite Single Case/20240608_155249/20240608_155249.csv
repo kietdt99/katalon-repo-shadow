@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite Single Case,Chrome 125.0.0.0,,,08-06-2024 15:57:50,08-06-2024 15:58:03,13.378s,PASSED
+,,,,,,,
+Test Cases/WEB/TC01,Chrome 125.0.0.0,,,08-06-2024 15:57:50,08-06-2024 15:58:03,12.839s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,08-06-2024 15:57:51,08-06-2024 15:57:54,3.275s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 125.0.0.0,,,08-06-2024 15:57:54,08-06-2024 15:57:57,2.935s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service""))",Chrome 125.0.0.0,,,08-06-2024 15:57:57,08-06-2024 15:57:58,0.747s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service""), ""CURA Healthcare Service"")",Chrome 125.0.0.0,,,08-06-2024 15:57:58,08-06-2024 15:57:58,0.372s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,08-06-2024 15:57:58,08-06-2024 15:58:03,4.700s,PASSED
