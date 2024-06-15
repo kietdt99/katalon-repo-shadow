@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite API" time="4.143" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suite API" tests="1" failures="0" errors="0" time="4.143" skipped="0" timestamp="16-06-2024T00:00:09" hostname="KietDT - host.docker.internal" id="Test Suites/Test Suites/Test Suite API">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\IT\\Sourcecode\\katalon-repo-shadow\\Reports\\20240615_235958\\Test Suites\\Test Suite API\\20240615_235959"/>
+         <property name="logFiles" value="D:\\IT\\Sourcecode\\katalon-repo-shadow\\Reports\\20240615_235958\\Test Suites\\Test Suite API\\20240615_235959\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="KietDT - host.docker.internal"/>
+         <property name="hostAddress" value="192.168.50.221"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+      </properties>
+      <testcase name="Test Cases/API/API01" time="3.949" classname="Test Cases/API/API01" status="PASSED">
+         <system-out><![CDATA[16-06-2024T00:00:10 - [TEST_CASE][PASSED] - Test Cases/API/API01: Test Cases/API/API01
+
+16-06-2024T00:00:10 - [TEST_STEP][PASSED] - getSingleUser = sendRequest(findTestObject("API/Get Single User")): Send request successfully
+
+16-06-2024T00:00:13 - [MESSAGE][INFO] - HAR: D:\IT\Sourcecode\katalon-repo-shadow\Reports\20240615_235958\Test Suites\Test Suite API\20240615_235959\requests\main\0.har
+
+16-06-2024T00:00:13 - [MESSAGE][PASSED] - Send request successfully
+
+16-06-2024T00:00:13 - [TEST_STEP][PASSED] - verifyResponseStatusCode(getSingleUser, 200): Verify response status code successfully
+
+16-06-2024T00:00:13 - [MESSAGE][PASSED] - Verify response status code successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[16-06-2024T00:00:09 - [TEST_SUITE][PASSED] - Test Suite API: Test Cases/API/API01]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
