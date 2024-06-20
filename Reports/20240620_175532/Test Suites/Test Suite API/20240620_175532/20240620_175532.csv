@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite API,,,,20-06-2024 17:55:42,20-06-2024 17:55:44,2.320s,PASSED
+,,,,,,,
+Test Cases/API/API01,,,,20-06-2024 17:55:42,20-06-2024 17:55:44,2.197s,PASSED
+"getSingleUser = sendRequest(findTestObject(""API/Get Single User""))",,,,20-06-2024 17:55:42,20-06-2024 17:55:44,1.964s,PASSED
+"verifyResponseStatusCode(getSingleUser, 200)",,,,20-06-2024 17:55:44,20-06-2024 17:55:44,0.018s,PASSED
