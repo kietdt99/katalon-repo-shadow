@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite Empty Case,,,,24-06-2024 22:39:23,24-06-2024 22:39:23,0.335s,PASSED
+,,,,,,,
+Test Cases/WEB/TC31,,,,24-06-2024 22:39:23,24-06-2024 22:39:23,0.162s,PASSED
+return null,,,,24-06-2024 22:39:23,24-06-2024 22:39:23,0.001s,PASSED
